@@ -10,7 +10,7 @@
 
 ---
 
- 🎯 Planned Learning
+ 🎯 On My Learning Roadmap
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" height="50" alt=".NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
