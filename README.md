@@ -1,13 +1,15 @@
- 🖥️ Programming Languages I’m Currently Learning 
+
 <p align="center">
+  🖥️ Programming Languages I’m Currently Learning 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" />
 </p>
 
 ---
 
 
-👨‍💻 Programming Languages I’m Familiar With
+
 <p align="center">
+ 👨‍💻 Programming Languages I’m Familiar With
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
@@ -17,8 +19,9 @@
 
 
 ---
- 🎯 On My Learning Roadmap
+ 
 <p align="center">
+ 🎯 On My Learning Roadmap
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" height="50" alt=".NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
 </p>
