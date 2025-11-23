@@ -2,8 +2,8 @@
 🖥️ Programming Languages I’m Currently Learning 
 </p>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-
+ 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" height="50" alt="C" />
 </p>
 
 ---
@@ -15,8 +15,8 @@
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" height="50" alt="C" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
 </p>
